@@ -1,0 +1,13 @@
+{
+  "rows_read": 12,
+  "values_standardised": 23,
+  "invalid_email": 1,
+  "empty_rows_removed": 1,
+  "invalid_age": 3,
+  "invalid_join_date": 1,
+  "duplicates_removed": 2,
+  "filled_age": 4,
+  "filled_salary": 2,
+  "filled_city": 1,
+  "rows_written": 9
+}

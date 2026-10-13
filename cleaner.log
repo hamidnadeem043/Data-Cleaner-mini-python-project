@@ -1,0 +1,20 @@
+2026-10-10 02:01:13,065 - WARNING - Line 4: 8 fields instead of 7 (unquoted comma?); merging extras into the last column
+2026-10-10 02:01:13,065 - INFO - Loaded 12 rows from messy_data.csv
+2026-10-10 02:01:13,095 - WARNING - Line 4: invalid email 'usman.tariq@example' -> treated as missing
+2026-10-10 02:01:13,097 - INFO - Line 6: no name and no email -> row dropped
+2026-10-10 02:01:13,097 - WARNING - Line 7: invalid age 'abc' -> treated as missing
+2026-10-10 02:01:13,098 - WARNING - Line 9: invalid age '-5' -> treated as missing
+2026-10-10 02:01:13,101 - WARNING - Line 9: invalid join_date 'not a date' -> treated as missing
+2026-10-10 02:01:13,101 - WARNING - Line 12: invalid age '150' -> treated as missing
+2026-10-10 02:01:13,102 - INFO - Line 5: duplicate of ali.khan@example.com -> row dropped
+2026-10-10 02:01:13,103 - INFO - Line 11: duplicate of sara.ahmed@example.com -> row dropped
+2026-10-10 02:01:13,103 - INFO - Line 4: missing age -> filled with median 34
+2026-10-10 02:01:13,103 - INFO - Line 7: missing age -> filled with median 34
+2026-10-10 02:01:13,103 - INFO - Line 9: missing age -> filled with median 34
+2026-10-10 02:01:13,103 - INFO - Line 12: missing age -> filled with median 34
+2026-10-10 02:01:13,103 - INFO - Line 8: missing salary -> filled with median 58000
+2026-10-10 02:01:13,104 - INFO - Line 10: missing salary -> filled with median 58000
+2026-10-10 02:01:13,104 - INFO - Line 7: missing city -> 'Unknown'
+2026-10-10 02:01:13,106 - INFO - Done: 12 rows read, 9 rows written
+2026-10-10 02:01:13,106 - INFO - Cleaned data: messy_data_cleaned.csv
+2026-10-10 02:01:13,106 - INFO - Report: messy_data_report.json

@@ -1,0 +1,10 @@
+id,name,email,age,city,salary,join_date
+1,Ali Khan,ali.khan@example.com,28,Lahore,50000,2023-01-15
+2,Sara Ahmed,sara.ahmed@example.com,34,Karachi,65000,2022-03-15
+3,Usman Tariq,,34,Islamabad,48000,2021-03-05
+6,Fatima Noor,fatima.noor@example.com,34,Unknown,72000,2020-11-30
+7,Bilal Hussain,bilal.h@example.com,41,Lahore,58000,2019-08-12
+8,Ayesha Malik,ayesha.m@example.com,34,Multan,55500,
+9,Hamza Sheikh,hamza.s@example.com,29,Faisalabad,58000,2024-02-10
+11,Zainab Raza,zainab.r@example.com,34,Peshawar,61000.5,2021-06-01
+12,Omar Farooq,omar.f@example.com,37,Rawalpindi,58000,2022-07-19
